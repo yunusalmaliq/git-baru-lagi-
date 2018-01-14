@@ -1,3 +1,4 @@
+print ">>>>><<<<<"
 def option():
 	print("1.desimal ke Biner")
 	print("2.desimal ke Octal")
